@@ -23,7 +23,7 @@ Generates a structured compliance report identifying:
 - Patient-safety risks
 
 ## Why I Built This
-As a pharmacy, I identified a gap - pharmaceutical marketers and healthcare communicators in SA 
+As a pharmacy student, I identified a gap - pharmaceutical marketers and healthcare communicators in SA 
 have no quick way to self-audit content before publication. 
 This tool addresses that.
 
